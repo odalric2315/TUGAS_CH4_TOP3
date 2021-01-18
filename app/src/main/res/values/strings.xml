@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout Login on Twitter</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_kata_sandi_daftar_ke_twitter">Lupa kata sandi? . Daftar ke Twitter</string>
+    <string name="email">Email</string>
+    <string name="kata_sandi">Kata sandi</string>
+</resources>
